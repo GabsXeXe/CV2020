@@ -1,0 +1,53 @@
+
+body {
+    padding: 1% 2%;
+    background-color:#f1f1e8  ;
+    color: #577d01;
+    font-size: 110%;
+    font-family: 'Grenze Gotisch', cursive;
+    font-family: 'Nunito', sans-serif;
+}
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #bfdcae;
+  border-width: 5px;
+  width: 98%;
+}
+
+h1 {
+  color: #206a5d;
+  line-height: 120%;
+}
+
+h3 {
+  color: #206a5d ;
+}
+
+table {
+  line-height: 2;
+}
+
+thead {
+  font-size: 120%;
+  color: #206a5d;
+}
+
+img {
+  padding: 30px;
+}
+
+img:hover {
+  opacity: 0.9;
+  transition: opacity .5s;
+}
+
+a {
+  color: #519872;
+}
+
+a:hover {
+  color: #a4b494;
+}
